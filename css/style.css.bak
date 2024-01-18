@@ -445,7 +445,7 @@ animation-iteration-count: infinite;
 
 #sec1 {
 		display: flex;
-		background: url(../images/bg1.jpg) no-repeat center;
+		background: url(../Images/bg1.jpg) no-repeat center;
 		background-size: cover;
 		font-size: 1em;
 		height: 100vh;

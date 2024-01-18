@@ -130,7 +130,7 @@
 			<div class="dim"></div>
 		</header>
 		<section id="main">
-			<div class="bg"><video id="bgVideo" src="images/main_bg.mp4"></video></div>
+			<div class="bg"><video id="bgVideo" src="Images/main_bg.mp4"></video></div>
 			<div class="main_inner">
 				<div class="content">
 					<p>Treat Your Skin With Food</p>
